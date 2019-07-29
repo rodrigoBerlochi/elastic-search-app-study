@@ -1,0 +1,20 @@
+{
+  "name": "elastic-search-app-study",
+  "version": "1.0.0",
+  "description": "Exploring elastic app search and the search-ui library",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodrigoBerlochi/elastic-search-app-study.git"
+  },
+  "author": "rberlochi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rodrigoBerlochi/elastic-search-app-study/issues"
+  },
+  "homepage": "https://github.com/rodrigoBerlochi/elastic-search-app-study#readme",
+  "dependencies": {}
+}
